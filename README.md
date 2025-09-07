@@ -2,7 +2,8 @@
 
 Hey there! So I built this little music player in Rust because, honestly, I got tired of switching between my terminal and Spotify. This thing lets you play your local music files right from the command line - no GUI needed!
 
-Main Interface<img width="1689" height="502" alt="image" src="https://github.com/user-attachments/assets/507ca957-1313-4e41-8e8b-ab8a72285cd6" />
+Main Interface
+<img width="1694" height="505" alt="Screenshot 2025-09-07 175818" src="https://github.com/user-attachments/assets/7ca0b41f-462a-490b-a137-d2df45e8d9b7" />
 
 *The player in action - shows current track, volume, and your playlist*
 
