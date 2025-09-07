@@ -15,7 +15,7 @@ This music player is pretty straightforward but does everything you need:
 - Shows you what's playing and what's coming next
 - Actually looks decent in your terminal
 
-![Help Screen](screenshot2.png)
+!Help Screen <img width="1689" height="502" alt="Screenshot 2025-09-07 175836" src="https://github.com/user-attachments/assets/123e2cd7-b209-447f-8511-d0fdebbff9c5" />
 *Hit 'H' anytime to see all available controls*
 
 ## How to use it
@@ -30,6 +30,7 @@ The controls are pretty intuitive if you've used any music player before:
 - **1-9** - Jump to track number
 - **H** - Show help (when you forget these)
 - **Q** - Quit
+
 
 ## Getting it running
 
